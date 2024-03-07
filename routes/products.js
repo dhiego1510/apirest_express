@@ -41,4 +41,5 @@ router.get('/', (req, res) => {
       data: body
     })
   })
+
   module.exports = router;
